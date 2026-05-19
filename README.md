@@ -46,7 +46,7 @@ Structured access and verification infrastructure for registration, validation, 
 
 ---
 
-## 🏥 Mediacase
+## 🏥 Basair Medaxis
 
 ### Clinics & Healthcare Management Platform
 
