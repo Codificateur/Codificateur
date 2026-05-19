@@ -20,7 +20,7 @@ I design and build scalable digital platforms focused on structured workflows, s
 
 # 🏗️ Featured Projects
 
-## 🌍 Lisan Basair
+## 🌍 maeen Basair
 
 ### Language Learning Operating System
 
